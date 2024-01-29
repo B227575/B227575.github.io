@@ -12,6 +12,7 @@
     "i18n":"CN",
     "nightTheme":"dark_colorblind",
     "style":"<style>#postBody{font-size:20px}</style>",
+    "showPostSource":0,
     "script":"",
     "GMEEK_VERSION":"last"
 }
